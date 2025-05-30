@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### 🧱 First Terraform Module: `modules/landing-zone`
+
+I will include:
+- VNET
+- Subnets
+- Network Security Groups
+- Resource Group
+- Diagnostics
+- Key Vault
+
+Would you like me to:
+- Add default values for quick demos?
+- Include support for **dev/test/prod environments**?
+- Keep it as **one consolidated module**, or split into submodules (networking, identity, etc.)?
+
+---
+
+Shall I now:
+1. Create the `README.md` and upload the first version?
+2. Generate the `landing-zone` module folder with sample Terraform code?
+
+Let me know if you want both or just start with one.
